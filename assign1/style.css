@@ -1,0 +1,35 @@
+/*style details*/
+.headsize{
+    color:brown;
+    text-align: center;
+}
+
+.border{
+    border: 1px solid;
+    border-width: medium;
+    margin:25px 200px;
+}
+
+.wordCentre{
+  //  background-color: lightsteelblue;  
+    text-align: center;
+    font-size: large;
+}
+
+.tableLayout{   
+    margin:auto;
+    table-layout: fixed;
+    text-align: left;
+}
+
+.postLayout{
+    font-size: large;
+}
+
+.centre{
+      text-align: center;
+}
+
+
+
+
